@@ -1,0 +1,16 @@
+div{
+    width: 150px;
+    height: 150px;
+    border: 2px solid;
+}
+
+img{
+    position: absolute;
+    left: 800px;
+    top: 8px;
+    border: 2px solid;
+}
+
+#d2{
+    position: absolute;
+}
